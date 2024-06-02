@@ -3,8 +3,8 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             title: "Cosmium Mod",
             description: "Amazing mod created by aetherical shard/cosmomite",
-            image: "https://source.unsplash.com/random/300x200?castle",
-            link: "#"
+            image: "https://media.forgecdn.net/avatars/thumbnails/1006/641/256/256/638528636799234360.png",
+            link: "https://www.curseforge.com/minecraft/mc-mods/cosmium"
         },
         {
             title: "Redstone Contraptions",
