@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', function() {
     const projects = [
         {
-            title: "Castle Build",
-            description: "An amazing medieval castle built block by block.",
+            title: "Cosmium Mod",
+            description: "Amazing mod created by aetherical shard/cosmomite",
             image: "https://source.unsplash.com/random/300x200?castle",
             link: "#"
         },
